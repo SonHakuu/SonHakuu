@@ -1,4 +1,6 @@
 ## Hi there 👋
+你好！
+这是一个个人自述页面测试！我会在近些时候更新他！
 
 <!--
 **SonHakuu/SonHakuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
